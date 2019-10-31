@@ -73,6 +73,11 @@ A curated list of awesome links relating to Barbershop singing
 
 ## Arranging
 
+## Education
+
+* [Harmony College (BABS)](https://www.babsharmonycollege.co.uk/)
+* [Harmony University (BHS)](https://www.barbershop.org/events/harmony-university) 
+
 ## Judging
 
 * [BABS Guild of Judges](http://www.babsguildofjudges.com/)
