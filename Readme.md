@@ -10,8 +10,10 @@ A curated list of awesome links relating to Barbershop singing
 - [Tags](#tags)
 - [Sheet Music](#sheetmusic)
 - [Teach Tracks](#teachtracks)
-- [Arranging](#arranging)
 - [Education](#education)
+- [Theory](#theory)
+- [Arranging](#arranging)
+- [Directing](#directing)
 - [Scores](#scores)
 - [Discussion Groups](#discussion)
 - [Blogs](#blogs)
@@ -71,16 +73,30 @@ A curated list of awesome links relating to Barbershop singing
 * [Strike Force Music](http://strikeforcemusic.com/teach-tracks/) - Antoine and Alex Kaiserman
 * [TimTracks](http://timtracks.com/) - Tim Waurick
 
-## Arranging
+
 
 ## Education
 
 * [Harmony College (BABS)](https://www.babsharmonycollege.co.uk/)
 * [Harmony University (BHS)](https://www.barbershop.org/events/harmony-university) 
 
+## Theory
+
+* [The 11 Chords of Barbershop (PDF)](https://www.sunshinetracks.com/chords.pdf)
+* [Barbershop chords (PDF)](https://babsharmonycollege.co.uk/downloads/Barbershop%20Chords%20pdf.pdf) - BABS Harmony College 2015
+
+## Arranging
+
+* [Modern Acappella arranging (PDF)](https://babsharmonycollege.co.uk/downloads/HC2019%20-%20Modern%20A%20Cappella%20Arranging.pdf) - Simon Arnott, BABS Harmony College 2019
+
+## Directing
+
+* [Directing a small chorus (PDF)](https://babsharmonycollege.co.uk/downloads/HC2019%20-%20Directing%20a%20Small%20Chorus.pdf) - Simon Arnott, BABS Harmony College 2019
+
 ## Judging
 
 * [BABS Guild of Judges](http://www.babsguildofjudges.com/)
+* [How to help the judges give you a bigger score (PPTX)](https://www.dropbox.com/s/bdzhz45akg47fes/How%20to%20please%20the%20singing%20judges.pptx?dl=0) with [video (MP4)](https://www.dropbox.com/s/mhubyxukjmf10z5/Harm%20Coll%20Georgia%20by%20four.mp4?dl=0) - Mike Taylor, BABS Harmony College 2019
 
 ## Scores
 
